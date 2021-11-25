@@ -7,7 +7,7 @@ To run server and client concurrently use this command
       npm run dev
     ```
 ## Key dependecies 
-json-server (to run  fake REST API )
-axios (to call api for verifying domains)
-ra-data-simple-rest (data provider for react-admin) 
-react-admin
+- json-server (to run  fake REST API )
+- axios (to call api for verifying domains)
+- ra-data-simple-rest (data provider for react-admin) 
+- react-admin
